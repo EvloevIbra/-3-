@@ -125,30 +125,10 @@ a{
 	font-family: 'Inter';
 	font-style: normal;
 	font-weight: 400;
-	font-size: calc(100vw/40);
+	font-size: calc(100vw/55);
 	color: #000000;
 
 }
-/* список кафедр */
-/* li ul{
-    position: relative;
-    min-width: calc(100vw/230) ;
-    display: none;
-	
-	
-	
-}
-
-	
-li:hover > ul{
-		width: 100%;
-		display: block;
-		
-		
-	   }
-.active{
-	background: #ddd;
-} */
 
 	  
 .link_division2{
